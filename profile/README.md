@@ -28,6 +28,11 @@ We're a team of passionate developers dedicated to creating high-quality Minecra
 </p>
 
 <p>
+  💬 Have questions, feedback, or ideas? Participate in our <strong>Discussions</strong> page!  
+  👉 <a href="https://github.com/orgs/HypeDevelopments/discussions"><strong>Visit Discussions</strong></a>
+</p>
+
+<p>
   Interested in contributing? We love collaboration! Explore our repositories and check out our issues to get started.
 </p>
 
