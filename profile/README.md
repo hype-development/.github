@@ -5,7 +5,7 @@
 <h1 align="center">Welcome to <strong>HypeDevelopment</strong> 👋</h1>
 
 <p align="center">
-We're a team of passionate developers dedicated to creating high-quality Minecraft assets that make your server shine. Whether you're looking for free tools or premium plugins, we've got you covered with solutions designed for modern Minecraft.
+HypeDevelopment creates high-quality Minecraft assets designed to enhance servers and gameplay experiences. From free tools to premium plugins, we deliver innovative solutions built with precision and creativity.
 </p>
 
 ---
@@ -13,9 +13,9 @@ We're a team of passionate developers dedicated to creating high-quality Minecra
 ## 🌟 What We Do
 
 <ul>
-  <li>🔧 <strong>Innovative Plugins:</strong> From <a href="https://github.com/HypeDevelopment/Pronouns4j"><strong>Pronouns4j</strong></a> to other exciting projects, we specialize in tools that enhance gameplay and streamline server management.</li>
-  <li>🌐 <strong>Modern Compatibility:</strong> All our products are optimized for the latest Minecraft versions, so you stay ahead of the game.</li>
-  <li>🎓 <strong>Experienced Team:</strong> With experience working on networks like <strong>Skycade.net</strong> and <strong>OG-Network</strong>, and freelancing with <strong>Candor Studios</strong>, we bring expertise to every project.</li>
+  <li>🔧 <strong>Innovative Plugins:</strong> From <a href="https://github.com/HypeDevelopment/Pronouns4j"><strong>Pronouns4j</strong></a> to other exciting projects, HypeDevelopment specializes in tools that enhance gameplay and streamline server management.</li>
+  <li>🌐 <strong>Modern Compatibility:</strong> All projects are optimized for the latest versions of Minecraft, keeping your server up-to-date and competitive.</li>
+  <li>🎓 <strong>Professional Experience:</strong> HypeDevelopment has worked with well-known networks like <strong>Skycade.net</strong> and <strong>OG-Network</strong>, along with contributing to the freelance powerhouse <strong>Candor Studios</strong>.</li>
 </ul>
 
 ---
@@ -24,16 +24,12 @@ We're a team of passionate developers dedicated to creating high-quality Minecra
 
 <p>
   Join the conversation, share your ideas, or just hang out!  
-  👉 <a href="https://discord.gg/gNTPAsJRZt"><strong>Join our Discord</strong></a>
+  👉 <a href="https://discord.gg/gNTPAsJRZt"><strong>Join the Discord</strong></a>
 </p>
 
 <p>
-  💬 Have questions, feedback, or ideas? Participate in our <strong>Discussions</strong> page!  
+  💬 Have feedback, questions, or ideas? Participate in the <strong>Discussions</strong> page!  
   👉 <a href="https://github.com/orgs/HypeDevelopments/discussions"><strong>Visit Discussions</strong></a>
-</p>
-
-<p>
-  Interested in contributing? We love collaboration! Explore our repositories and check out our issues to get started.
 </p>
 
 ---
@@ -41,8 +37,8 @@ We're a team of passionate developers dedicated to creating high-quality Minecra
 ## 📚 Resources
 
 <ul>
-  <li>📖 <strong>Documentation:</strong> Need help? Dive into our detailed guides and resources: <a href="https://wiki.joehosten.me"><strong>HypeDevelopment Wiki</strong></a>.</li>
-  <li>🚀 <strong>Stay Updated:</strong> Follow our repositories to keep up with new releases and updates.</li>
+  <li>📖 <strong>Documentation:</strong> Explore detailed guides and resources: <a href="https://wiki.joehosten.me"><strong>HypeDevelopment Wiki</strong></a>.</li>
+  <li>🚀 <strong>Stay Updated:</strong> Follow the repositories for the latest updates and releases.</li>
 </ul>
 
 ---
@@ -50,8 +46,8 @@ We're a team of passionate developers dedicated to creating high-quality Minecra
 ## 💼 Business & Commissions
 
 <ul>
-  <li>💡 Have a custom project idea? We're open for commissions! Email us at: <a href="mailto:hello@joehosten.me">hello@joehosten.me</a></li>
-  <li>📩 For invoices and payment-related queries, reach out to: <a href="mailto:invoices@joehosten.me">invoices@joehosten.me</a></li>
+  <li>💡 Have a custom project idea? HypeDevelopment is open for commissions! Email: <a href="mailto:hello@joehosten.me">hello@joehosten.me</a></li>
+  <li>📩 For invoices or payment-related queries, contact: <a href="mailto:invoices@joehosten.me">invoices@joehosten.me</a></li>
 </ul>
 
 ---
