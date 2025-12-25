@@ -10,16 +10,6 @@ HypeDevelopment creates high-quality Minecraft assets designed to enhance server
 
 ---
 
-## 🌟 What We Do
-
-<ul>
-  <li>🔧 <strong>Innovative Plugins:</strong> From <a href="https://github.com/hype-development/Pronouns4j"><strong>Pronouns4j</strong></a> to other exciting projects, HypeDevelopment specializes in tools that enhance gameplay and streamline server management.</li>
-  <li>🌐 <strong>Modern Compatibility:</strong> All projects are optimized for the latest versions of Minecraft, keeping your server up-to-date and competitive.</li>
-  <li>🎓 <strong>Professional Experience:</strong> HypeDevelopment has worked with well-known networks like <strong>Skycade.net</strong> and <strong>OG-Network</strong>, along with contributing to the freelance powerhouse <strong>Candor Studios</strong>.</li>
-</ul>
-
----
-
 ## 🤝 Get Involved
 
 <p>
