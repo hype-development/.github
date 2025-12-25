@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://assets.skyhawk.joehosten.me/jhdev/assets/HypeDev-trans.png" alt="HypeDevelopment Logo" width="500">
+  <img src="https://cdn.joehosten.me/api/cdn/download/images/logo-blue-mark-nobg.png" alt="HypeDevelopment Logo" width="250">
 </div>
 
 <h1 align="center">Welcome to <strong>HypeDevelopment</strong> 👋</h1>
