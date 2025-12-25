@@ -27,7 +27,6 @@ HypeDevelopment creates high-quality Minecraft assets designed to enhance server
 ## 📚 Resources
 
 <ul>
-  <li>📖 <strong>Documentation:</strong> Explore detailed guides and resources: <a href="https://wiki.joehosten.me"><strong>HypeDevelopment Wiki</strong></a>.</li>
   <li>🚀 <strong>Stay Updated:</strong> Follow the repositories for the latest updates and releases.</li>
 </ul>
 
